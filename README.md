@@ -3,7 +3,7 @@ FFMPEG for Docker on Archlinux with NPM ImageMagic and GULP,PM2,coffee-script fo
 
 sample use:
 ```
-FROM          zajca/docker-archlinux-ffmpeg-nodejs
+FROM          zajca/archlinux-ffmpeg-nodejs
 
 COPY . /src
 
